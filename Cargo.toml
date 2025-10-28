@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "memoria_demo/rsa_demo",
+]
+default-members = [
+    "memoria_demo/rsa_demo",
+]
